@@ -1,0 +1,16 @@
+{
+  "DEBUG": 1,
+  "SECRET_KEY": "063ea209c97d9f750abeb99e6d2da6cd059a61971ea50e3f",
+  "SQLALCHEMY_DATABASE_URI": "postgresql+psycopg2://postgres:postgres@127.0.0.1:5432/mengya",
+  "SQLALCHEMY_ECHO": true,
+  "SQLALCHEMY_NATIVE_UNICODE": false,
+  "SQLALCHEMY_TRACK_MODIFICATIONS": 0,
+  "URL_PREFIX": "",
+  "SWAGGER": {
+    "description": "小小悟空",
+    "title": "测试",
+    "schemes": "http",
+    "host": "192.168.9.50:6868",
+    "basePath": ""
+  }
+}
